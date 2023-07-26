@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jishnupr
+# 👋 Hi, I’m Jishnu pr
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning webdevelopment
 
