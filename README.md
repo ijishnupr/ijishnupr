@@ -2,6 +2,6 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning webdevelopment
 
-![image](https://i.pinimg.com/originals/e0/dc/ef/e0dcef9f693d5ada75cd04ce74e92bbf.gif)
+![image](https://media2.giphy.com/media/MxYQrB9jeGzza/giphy.gif?cid=6c09b952c3qnrjc4o8i7k9fi9bo1x0krqd4s12mdjqcbynfj&ep=v1_gifs_search&rid=giphy.gif&ct=s)
 
 
