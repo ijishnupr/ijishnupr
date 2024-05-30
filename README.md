@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jishnu pr
 - 👀 Welcome to my corner of github
 
-![image](https://image.similarpng.com/very-thumbnail/2020/11/Programmer-Engineering-Development-Illustration-on-transparent-background-PNG.png)
+![image](https://static.vecteezy.com/system/resources/thumbnails/011/153/368/small_2x/3d-website-developer-working-on-laptop-illustration-png.png)
 
 
