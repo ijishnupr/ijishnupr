@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jishnu pr
 - 👀 Welcome to my corner of github
 
-![image](https://static.vecteezy.com/system/resources/thumbnails/011/153/368/small_2x/3d-website-developer-working-on-laptop-illustration-png.png)
+![image](https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif)
 
 
