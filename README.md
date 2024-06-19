@@ -1,5 +1,5 @@
 <h2> Hi, I'm Jishnu pr! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif" width="230">
+<img align='right' src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif" width="350">
 <p><em>Software Enginner at <a href="https://www.regaljewellers.net/">Regal</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"
 </em></p>
 
