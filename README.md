@@ -13,7 +13,7 @@
 ```javascript
 const jishnu = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python, sql],
+  code: [Javascript, Typescript, html, css, Python, sql],
   tools: [React, Redux, Django, Fastapi, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
 
