@@ -4,7 +4,7 @@
 </em></p>
 
 
-social :- [![Linkedin: thaianebraga](https://img.shields.io/badge/-Jishnu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jishnupr//)](https://www.linkedi)
+social :- [![Linkedin: thaianebraga](https://img.shields.io/badge/-Jishnu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jishnupr//)](https://www.linkedin.com/in/jishnupr/)
 
 
 
